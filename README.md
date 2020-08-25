@@ -30,3 +30,11 @@ Pennsylvania, in the [Computational Genetics Lab](http://epistasis.org).
 [<img align="left" alt="GNU/Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][latex]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+
+
+[python]: https://www.python.org/
+[cpp]: https://isocpp.org/
+[emacs]: https://www.gnu.org/software/emacs/
+[linux]: https://www.linuxfoundation.org/
+[latex]: https://www.latex-project.org/
+[git]: https://git-scm.com/
