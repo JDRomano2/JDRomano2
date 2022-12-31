@@ -2,7 +2,8 @@
 
 I'm a biomedical data scientist who specializes in translational bioinformatics
 and computational toxicology. Currently, I work at the University of
-Pennsylvania, in the [Computational Genetics Lab](http://epistasis.org).
+Pennsylvania, as an Assistant Professor of Informatics and the principal
+investigator of the [Romano Lab](https://romanolab.org).
 
 ---
 
@@ -15,6 +16,7 @@ Pennsylvania, in the [Computational Genetics Lab](http://epistasis.org).
 
 ### Me elsewhere on the internet:
 
+- [Romano Lab website](https://romanolab.org)
 - [Personal website](http://jdr.bio)
 - [UPenn Department of Biostatistics, Epidemiology, & Informatics](https://www.dbei.med.upenn.edu/post-docs/joseph-d-romano)
 - [UPenn Center of Excellence in Environmental Toxicology](http://ceet.upenn.edu/community-outreach-engagement/coec-environmental-health-education-programs/current-trainees/)
